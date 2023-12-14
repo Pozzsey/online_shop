@@ -1,0 +1,77 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">online_shop</string>
+
+    <!-- Profile  -->
+    <string name="myprofile">My Profile</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name...</string>
+    <string name="passwork">Passwork...</string>
+    <string name="newpasswork">newpasswork...</string>
+    <string name="username">User name </string>
+    <string name="login">Login</string>
+
+    <!--home-->
+    <string name="buynew">Buy Now </string>
+    <string name="discounthome">Discount 20% for...</string>
+    <string name="seeall">See all </string>
+    <string name="wishlist">Wishlist</string>
+    <string name="search">Search...</string>
+    <string name="welcome">welcome</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="whatdoyouwant">What do you want?</string>
+    <string name="categories">Categories</string>
+    <string name="shirt">Shirt </string>
+    <string name="shirtgray">Shirt gray</string>
+    <string name="shirtblack">Shirt black</string>
+    <string name="exploer">Exploer</string>
+    <string name="popular_product">Popular Product</string>
+    <string name="see_all">See all</string>
+    <string name="smart_tv">Smart TV </string>
+    <string name="iphone15">iphone15</string>
+
+
+    <!-- My chrt -->
+
+    <string name="mychrt">My Chrt</string>
+    <string name="sixdola">6$</string>
+    <string name="smarttvchrt">600$</string>
+    <string name="threedola">3$</string>
+    <string name="onedola">1$</string>
+    <string name="one">1</string>
+    <string name="tow">2</string>
+    <string name="towdola">2$</string>
+    <string name="bok">+</string>
+    <string name="dok">-</string>
+    <string name="type">Type : </string>
+    <string name="newa">New</string>
+    <string name="namecart">name: </string>
+    <string name="hody_gray">Hody gray</string>
+    <string name="hody_black">Hody Black</string>
+    <string name="odersummary">Oder summary</string>
+    <string name="namechrt">Name </string>
+    <string name="totalmony">Totamony</string>
+    <string name="totalfull">Totafull= </string>
+    <string name="discountchrt">Discount</string>
+    <string name="discountchrthaseb">50%</string>
+    <string name="total">Total</string>
+    <string name="odrenew">Oder New </string>
+    <string name="namesmarttv">Name = Smart TV </string>
+
+    <!--Item -->
+    <string name="item">Item</string>
+    <string name="price">Price=</string>
+    <string name="add">add</string>
+    <string name="cancle">cancle</string>
+    <string name="nameitemshirtblack">Name= Hody black</string>
+    <string name="nameitemshirtblue">Name= Hody blue</string>
+    <string name="namehody">Name= Hody </string>
+    <string name="tepynew">Tepy= New</string>
+
+
+
+
+
+
+
+</resources>
